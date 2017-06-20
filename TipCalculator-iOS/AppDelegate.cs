@@ -17,6 +17,15 @@ namespace TipCalculatoriOS {
             // Override point for customization after application launch.
             // If not required for your application you can safely delete this method
 
+            // Create new window instance based on screen size
+            Window = new UIWindow(UIScreen.MainScreen.Bounds);
+
+            // Assign the root view controller
+            Window.RootViewController = new MyViewController();
+
+            // Make the window visible
+            Window.MakeKeyAndVisible();
+
             return true;
         }
 
