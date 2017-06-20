@@ -1,0 +1,9 @@
+/Users/yulong/Projects/TipCalculator-iOS/TipCalculator-iOS/bin/iPhoneSimulator/Debug/TipCalculator-iOS.exe
+/Users/yulong/Projects/TipCalculator-iOS/TipCalculator-iOS/bin/iPhoneSimulator/Debug/TipCalculator-iOS.pdb
+/Users/yulong/Projects/TipCalculator-iOS/TipCalculator-iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/yulong/Projects/TipCalculator-iOS/TipCalculator-iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/yulong/Projects/TipCalculator-iOS/TipCalculator-iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/yulong/Projects/TipCalculator-iOS/TipCalculator-iOS/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/yulong/Projects/TipCalculator-iOS/TipCalculator-iOS/obj/iPhoneSimulator/Debug/TipCalculator-iOS.csproj.CoreCompileInputs.cache
+/Users/yulong/Projects/TipCalculator-iOS/TipCalculator-iOS/obj/iPhoneSimulator/Debug/TipCalculator-iOS.exe
+/Users/yulong/Projects/TipCalculator-iOS/TipCalculator-iOS/obj/iPhoneSimulator/Debug/TipCalculator-iOS.pdb
